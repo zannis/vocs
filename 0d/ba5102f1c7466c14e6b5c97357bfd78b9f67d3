@@ -1,0 +1,25 @@
+site/pages/docs/api/config.mdx
+  ef4adb5d866083a8 34,37,48-56
+.changeset/ai-cta-models.md
+  ef4adb5d866083a8 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "0dba5102f1c7466c14e6b5c97357bfd78b9f67d3",
+  "prompts": {
+    "ef4adb5d866083a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d8b71061-17e0-4702-80ea-3b6519a40e17",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "zannis",
+      "messages": [],
+      "total_additions": 20,
+      "total_deletions": 2,
+      "accepted_lines": 20,
+      "overriden_lines": 0
+    }
+  }
+}
